@@ -1,0 +1,38 @@
+[
+    {
+        "Velocidad": 2,
+        "Destreza": 9,
+        "Fuerza": 9,
+        "Nivel": 10,
+        "Armadura": 10,
+        "Salud": 100,
+        "Tipo": "Asesino",
+        "Apodo": "Goku",
+        "FechaDeNacimiento": "2020-03-12T00:00:00",
+        "Edad": 3
+    },
+    {
+        "Velocidad": 2,
+        "Destreza": 9,
+        "Fuerza": 9,
+        "Nivel": 10,
+        "Armadura": 10,
+        "Salud": 100,
+        "Tipo": "Asesino",
+        "Apodo": "Goku",
+        "FechaDeNacimiento": "2020-03-12T00:00:00",
+        "Edad": 3
+    },
+    {
+        "Velocidad": 2,
+        "Destreza": 9,
+        "Fuerza": 9,
+        "Nivel": 10,
+        "Armadura": 10,
+        "Salud": 100,
+        "Tipo": "Asesino",
+        "Apodo": "Goku",
+        "FechaDeNacimiento": "2020-03-12T00:00:00",
+        "Edad": 3
+    }
+]
